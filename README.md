@@ -6,3 +6,5 @@ This repository is built step by step in the tutorial.
 
 My name is Mandar Patil.
 Looking forward to learn and explorer everthing till the last breathe of my life.
+
+It now includes steps for github.
